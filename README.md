@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Sanket Gadwe</h1>
 <h3 align="center">A passionate Cybersecurity Researcher from India</h3>
 
-<img align="right" alt="Hacker" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw3TYQSuRrj3DwyLt4OpFMQc&ust=1705142810416000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjViY7W14MDFQAAAAAdAAAAABBB">
+<img align="right" alt="Hacker" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketgadwe&label=Profile%20views&color=0e75b6&style=flat" alt="sanketgadwe" /> </p>
 
